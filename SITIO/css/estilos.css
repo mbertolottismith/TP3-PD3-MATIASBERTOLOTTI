@@ -1,0 +1,94 @@
+body {
+   background-color: #D3D8D4;
+ }
+ header img {
+   width: 100%;
+ }
+ header a img {
+   width: 80%;
+ }
+ header div ul li a {
+      font-family: 'Abhaya Libre', serif;
+      font-size: 1.2rem;
+ }
+ .navbar .navbar-toggler-icon {
+   border: none; /* quita el borde */
+ }
+
+/* BODY HOME */
+.pieimg{
+   font-family: 'Aleo', serif;
+   font-style: italic;
+   font-size: 1rem;
+}
+p {
+   font-family: 'Cormorant Garamond', serif;
+   font-size: 1.2rem;
+}
+h2 {
+   font-family: 'Cinzel', serif;
+   font-size: 2rem;
+}
+
+/*FOOTER*/
+footer {
+   background-color: #f8f9fa;
+}
+footer p {
+   font-family: 'Aleo', serif;
+   font-style: italic;
+   font-size: 1rem;
+}
+
+/*DIRECTORES*/
+.directores article div img {
+   width: 100%;
+}
+
+/*FILMES*/
+.filmes article img {
+   width: 80%;
+}
+h3 {
+   font-family: 'Abhaya Libre', serif;
+   font-size: 1.2rem;
+}
+.filmex div a img {
+   width: 50%;
+}
+/*CONTACTO*/
+.contacto div img {
+   width: 80%;
+   border-radius: 10%;
+}
+span {
+   font-family: 'Abhaya Libre', serif;
+   font-size: 1.2rem;
+}
+input {
+   font-family: 'Abhaya Libre', serif;
+   font-size: 1.2rem;
+}
+
+/*INGRESAR*/
+.login {
+   background-image: url(../img/ingresar2.jpg);
+   background-size: 100%;
+   background-position: center;
+}
+
+/*TIENDA*/
+.tienda::-webkit-scrollbar{
+   width: 0%;
+}
+.item {
+   margin-right: 40px;
+   display: inline-block;
+}
+.slider {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.item :hover {
+   width: 112%;
+}
